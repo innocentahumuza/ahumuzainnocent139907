@@ -975,4 +975,10 @@ a:focus {
 .footer_section p a {
   color: inherit;
 }
+
+.chat{
+  align-items: center;
+  margin-left: 10%;
+  margin-right: 10%;
+}
 /*# sourceMappingURL=style.css.map */
